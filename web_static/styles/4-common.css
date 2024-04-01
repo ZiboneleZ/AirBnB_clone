@@ -10,12 +10,3 @@ body {
     max-width: 1000px;
     margin: 30px auto;
 }
-
-.filters {
-    background-color: white;
-    height: 70px;
-    width: 100%;
-    border: 1px solid #dddddd;
-    border-radius: 4px;
-    position: relative;
-}
