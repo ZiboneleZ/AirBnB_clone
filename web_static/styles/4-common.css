@@ -10,3 +10,13 @@ body {
     max-width: 1000px;
     margin: 30px auto;
 }
+
+.container .places {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container .places article h2 {
+    text-align: center;
+}
